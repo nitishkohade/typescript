@@ -34,6 +34,7 @@ axios.get(url).then(res => {
 const mk1:any = 45
 const mk: unknown = 45
 
-let mqwe:  = [];
+// let mqwe:  = [];
 
-console.log(mqwe)
+// console.log(mqwe)
+
